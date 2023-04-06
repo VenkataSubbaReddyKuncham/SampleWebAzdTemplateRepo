@@ -1,0 +1,8 @@
+C:\Repo\CustomAzdTemplate\src\testwebapp\obj\Debug\net5.0\testwebapp.csproj.AssemblyReference.cache
+C:\Repo\CustomAzdTemplate\src\testwebapp\obj\Debug\net5.0\testwebapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\CustomAzdTemplate\src\testwebapp\obj\Debug\net5.0\testwebapp.AssemblyInfoInputs.cache
+C:\Repo\CustomAzdTemplate\src\testwebapp\obj\Debug\net5.0\testwebapp.AssemblyInfo.cs
+C:\Repo\CustomAzdTemplate\src\testwebapp\obj\Debug\net5.0\testwebapp.csproj.CoreCompileInputs.cache
+C:\Repo\CustomAzdTemplate\src\testwebapp\obj\Debug\net5.0\testwebapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Repo\CustomAzdTemplate\src\testwebapp\obj\Debug\net5.0\testwebapp.RazorAssemblyInfo.cache
+C:\Repo\CustomAzdTemplate\src\testwebapp\obj\Debug\net5.0\testwebapp.RazorAssemblyInfo.cs

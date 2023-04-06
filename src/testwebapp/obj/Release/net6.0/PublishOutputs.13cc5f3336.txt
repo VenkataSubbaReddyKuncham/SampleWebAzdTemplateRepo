@@ -1,0 +1,7 @@
+C:\Users\v-venkun\AppData\Local\Temp\azd5951953\testwebapp.exe
+C:\Users\v-venkun\AppData\Local\Temp\azd5951953\appsettings.Development.json
+C:\Users\v-venkun\AppData\Local\Temp\azd5951953\appsettings.json
+C:\Users\v-venkun\AppData\Local\Temp\azd5951953\testwebapp.dll
+C:\Users\v-venkun\AppData\Local\Temp\azd5951953\testwebapp.deps.json
+C:\Users\v-venkun\AppData\Local\Temp\azd5951953\testwebapp.runtimeconfig.json
+C:\Users\v-venkun\AppData\Local\Temp\azd5951953\testwebapp.pdb
